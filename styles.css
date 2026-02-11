@@ -139,6 +139,14 @@ section {
   margin-bottom: 1.5rem;
 }
 
+#publications h2 {
+    margin-bottom: 10px; /* adjust as you like */
+}
+
+#publications-container {
+    margin-top: 0; /* remove extra space above first entry */
+}
+
 .toggle-publications {
   background-color: rgba(74, 116, 185, 0.08);
   color: var(--accent-color);
