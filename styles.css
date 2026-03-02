@@ -332,8 +332,8 @@ section {
 /* Services and misc */
 .service-title {
   font-weight: 500;
-  margin-bottom: 0.35rem;
-  color: var(--accent-color);
+  margin-bottom: 0.4rem;
+  font-size: 1.05rem;
 }
 
 .service-category p, .misc-item p {
